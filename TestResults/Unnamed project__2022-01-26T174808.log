@@ -1,0 +1,74 @@
+﻿2022-01-26T17:48:08.2405661+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-01-26T17:48:08.2405661+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework clr40 in x86 mode execution started
+2022-01-26T17:48:08.2405661+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\packages\SpecRun.Runner.3.9.31\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-01-26T17:48:08.2405661+00:00;VSTestExecutionThread;Info;Current UserName: 'halilozanar', MachineName: '725TCB'
+2022-01-26T17:48:08.2784651+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T17:48:08.2784651+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults" (default)
+2022-01-26T17:48:08.2784651+00:00;VSTestExecutionThread;Info;Profile: 
+2022-01-26T17:48:08.3093821+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\Unnamed project__2022-01-26T174808.log
+2022-01-26T17:48:08.3143698+00:00;Thread#15;Info;Checking activation
+2022-01-26T17:48:08.3754027+00:00;Thread#15;Info;Activated.
+2022-01-26T17:48:08.3754027+00:00;Thread#15;Info;Activation check completed
+2022-01-26T17:48:08.3754027+00:00;Thread#15;Info;Starting test run
+2022-01-26T17:48:08.4162938+00:00;Thread#15;Info;Discovering target: Default
+2022-01-26T17:48:08.4162938+00:00;Thread#15;Info;Discovering tests from assembly: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T17:48:08.8447330+00:00;Thread#15;Info;Discovered tests from assembly: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T17:48:08.8457305+00:00:Test Suite Dump
+2022-01-26T17:48:08.8469888+00:00:#0: Unnamed project/ - 
+2022-01-26T17:48:08.8469888+00:00:#1: Default - 
+2022-01-26T17:48:08.8469888+00:00:#2: InteractiveInvestorTest - 
+2022-01-26T17:48:08.8469888+00:00:#3: Replicating how a customer would navigate on ii UI. - 
+2022-01-26T17:48:08.8746535+00:00:#4: When user go to ii web page, navigate to Trading Account page - TestAssembly:InteractiveInvestorTest/Feature:Replicating+how+a+customer+would+navigate+on+ii+UI./Scenario:When+user+go+to+ii+web+page%2c+navigate+to+Trading+Account+page
+2022-01-26T17:48:08.8746535+00:00:End: Test Suite Dump
+2022-01-26T17:48:08.8936036+00:00:Thread#0:Scheduler: get next test for thread 0
+2022-01-26T17:48:08.8946007+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-01-26T17:48:08.8946007+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-01-26T17:48:08.8975926+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-01-26T17:48:08.8975926+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-01-26T17:48:08.8975926+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-01-26T17:48:08.8975926+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-01-26T17:48:08.8985898+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-01-26T17:48:08.8985898+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-01-26T17:48:08.9005845+00:00:Thread #0: creating new test thread executor for InteractiveInvestorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-01-26T17:48:08.9015818+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-01-26T17:48:08.9145471+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-01-26T17:48:08.9155448+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2022-01-26T17:48:09.1430869+00:00:Thread#0:T:-> Loading plugin C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-01-26T17:48:09.1530612+00:00:Thread#0:T:-> Loading plugin C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T17:48:09.1540589+00:00:Thread#0:T:-> Using default config
+2022-01-26T17:48:09.3854387+00:00:Thread#0: Test #4/0 is started on thread #0
+2022-01-26T17:48:09.4799346+00:00:Thread#0:T:Feature: Replicating how a customer would navigate on ii UI. | Scenario: When user go to ii web page, navigate to Trading Account page
+2022-01-26T17:48:12.6413600+00:00:Thread#0:B:Given Open a browser and go to  webpage
+2022-01-26T17:48:12.6852430+00:00:Thread#0:T:done: HomeSteps.GivenOpenABrowserAndGoToWebpage() (0.0s)
+2022-01-26T17:48:12.6922241+00:00:Thread#0:B:And Click on the “Services” dropdown
+2022-01-26T17:48:36.6503940+00:00:Thread#0:T:done: HomeSteps.GivenClickOnTheServicesDropdown() (24.0s)
+2022-01-26T17:48:36.6543831+00:00:Thread#0:B:When Click on the link Trading Account link
+2022-01-26T17:48:36.7856052+00:00:Thread#0:T:done: HomeSteps.WhenClickOnTheLinkTradingAccountLink() (0.1s)
+2022-01-26T17:48:36.7895947+00:00:Thread#0:B:Then Should see expected page
+2022-01-26T17:48:42.9756962+00:00:Thread#0:T:done: TradingAccountSteps.ThenShouldSeeExpectedPage() (6.2s)
+2022-01-26T17:48:42.9836746+00:00:Thread#0:Scheduler: get next test for thread 0
+2022-01-26T17:48:42.9836746+00:00:Thread#:Scheduler: at the end of normal test queue
+2022-01-26T17:48:42.9836746+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-01-26T17:48:42.9836746+00:00:Thread#0:Scheduler: No more tests for thread
+2022-01-26T17:48:43.1043520+00:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 33.7189133 seconds
+2022-01-26T17:48:43.1681818+00:00:Trying to cancel thread
+2022-01-26T17:48:43.1691788+00:00:Thread cancelled
+2022-01-26T17:48:43.1731703+00:00:Thread#-1:Scheduler: get next test for thread -1
+2022-01-26T17:48:43.1731703+00:00:Thread#:Scheduler: at the end of normal test queue
+2022-01-26T17:48:43.1731703+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-01-26T17:48:43.1741727+00:00;Thread#15;Info;test run finished
+2022-01-26T17:48:43.1741727+00:00;Thread#15;Info;publishing test results
+2022-01-26T17:48:43.1861413+00:00;Thread#15;Info;test results published
+2022-01-26T17:48:43.1871393+00:00;Thread#15;Info;generating reports
+2022-01-26T17:48:43.2662181+00:00;Thread#15;Info;Starting external report generation process
+2022-01-26T17:48:44.2194488+00:00;Thread#15;Info;Successfully generated reports.
+2022-01-26T17:48:44.2204460+00:00;Thread#15;Info;Successfully generated reports
+2022-01-26T17:48:44.2274273+00:00:Total: 1
+2022-01-26T17:48:44.2284249+00:00:Succeeded: 1
+2022-01-26T17:48:44.2294226+00:00:Ignored: 0
+2022-01-26T17:48:44.2294226+00:00:Pending: 0
+2022-01-26T17:48:44.2294226+00:00:Skipped: 0
+2022-01-26T17:48:44.2294226+00:00:Failed: 0
+2022-01-26T17:48:44.2364032+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-01-26T17:48:44.2364032+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\Unnamed project__2022-01-26T174808.html'
+========== End of log file ==========

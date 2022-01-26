@@ -1,0 +1,43 @@
+﻿2022-01-26T10:13:54.6638449+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-01-26T10:13:54.6638449+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework clr40 in x86 mode execution started
+2022-01-26T10:13:54.6638449+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\packages\SpecRun.Runner.3.9.31\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-01-26T10:13:54.6648365+00:00;VSTestExecutionThread;Info;Current UserName: 'halilozanar', MachineName: '725TCB'
+2022-01-26T10:13:54.6987462+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T10:13:54.6987462+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults" (default)
+2022-01-26T10:13:54.6987462+00:00;VSTestExecutionThread;Info;Profile: 
+2022-01-26T10:13:54.7296913+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\Unnamed project__2022-01-26T101354.log
+2022-01-26T10:13:54.7366442+00:00;Thread#15;Info;Checking activation
+2022-01-26T10:13:54.7905007+00:00;Thread#15;Info;Activated.
+2022-01-26T10:13:54.7905007+00:00;Thread#15;Info;Activation check completed
+2022-01-26T10:13:54.7905007+00:00;Thread#15;Info;Starting test run
+2022-01-26T10:13:54.8244112+00:00;Thread#15;Info;Discovering target: Default
+2022-01-26T10:13:54.8254084+00:00;Thread#15;Info;Discovering tests from assembly: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T10:13:55.1588941+00:00;Thread#15;Info;Discovered tests from assembly: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T10:13:55.1598926+00:00:Test Suite Dump
+2022-01-26T10:13:55.1613147+00:00:#0: Unnamed project/ - 
+2022-01-26T10:13:55.1613147+00:00:#1: Default - 
+2022-01-26T10:13:55.1613147+00:00:#2: InteractiveInvestorTest - 
+2022-01-26T10:13:55.1613147+00:00:#3: Replicating how a customer would navigate on ii UI. - 
+2022-01-26T10:13:55.1888140+00:00:#4: When user go to ii web page, navigate to Trading Account page - TestAssembly:InteractiveInvestorTest/Feature:Replicating+how+a+customer+would+navigate+on+ii+UI./Scenario:When+user+go+to+ii+web+page%2c+navigate+to+Trading+Account+page
+2022-01-26T10:13:55.1888140+00:00:End: Test Suite Dump
+2022-01-26T10:13:55.2048295+00:00:Thread#0:Scheduler: get next test for thread 0
+2022-01-26T10:13:55.2058268+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-01-26T10:13:55.2058268+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-01-26T10:13:55.2088201+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-01-26T10:13:55.2088201+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-01-26T10:13:55.2088201+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-01-26T10:13:55.2088201+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-01-26T10:13:55.2098172+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-01-26T10:13:55.2108145+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-01-26T10:13:55.2128092+00:00:Thread #0: creating new test thread executor for InteractiveInvestorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-01-26T10:13:55.2138065+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-01-26T10:13:55.2187933+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-01-26T10:13:55.2197897+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2022-01-26T10:13:55.3923429+00:00:Thread#0:T:-> Loading plugin C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-01-26T10:13:55.3993105+00:00:Thread#0:T:-> Loading plugin C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T10:13:55.4013045+00:00:Thread#0:T:-> Using default config
+2022-01-26T10:13:55.5878048+00:00:Thread#0: Test #4/0 is started on thread #0
+2022-01-26T10:13:56.9151442+00:00:Thread#0:T:Feature: Replicating how a customer would navigate on ii UI. | Scenario: When user go to ii web page, navigate to Trading Account page
+2022-01-26T10:13:58.7765843+00:00:Thread#0:B:Given Open a browser and go to  webpage
+2022-01-26T10:14:07.9149630+00:00:Thread#0:T:done: HomeSteps.GivenOpenABrowserAndGoToWebpage() (9.1s)
+2022-01-26T10:14:11.6400668+00:00:Thread#0:B:And Click on the “Services” dropdown

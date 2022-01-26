@@ -1,0 +1,56 @@
+﻿2022-01-26T17:13:36.5794774+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-01-26T17:13:36.5794774+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework clr40 in x86 mode execution started
+2022-01-26T17:13:36.5794774+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\packages\SpecRun.Runner.3.9.31\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-01-26T17:13:36.5794774+00:00;VSTestExecutionThread;Info;Current UserName: 'halilozanar', MachineName: '725TCB'
+2022-01-26T17:13:36.6084000+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T17:13:36.6084000+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults" (default)
+2022-01-26T17:13:36.6084000+00:00;VSTestExecutionThread;Info;Profile: 
+2022-01-26T17:13:36.6403148+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\Unnamed project__2022-01-26T171336.log
+2022-01-26T17:13:36.6462987+00:00;Thread#15;Info;Checking activation
+2022-01-26T17:13:36.7041439+00:00;Thread#15;Info;Activated.
+2022-01-26T17:13:36.7041439+00:00;Thread#15;Info;Activation check completed
+2022-01-26T17:13:36.7041439+00:00;Thread#15;Info;Starting test run
+2022-01-26T17:13:36.7370632+00:00;Thread#15;Info;Discovering target: Default
+2022-01-26T17:13:36.7370632+00:00;Thread#15;Info;Discovering tests from assembly: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T17:13:37.2388429+00:00;Thread#15;Info;Discovered tests from assembly: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T17:13:37.2398403+00:00:Test Suite Dump
+2022-01-26T17:13:37.2408382+00:00:#0: Unnamed project/ - 
+2022-01-26T17:13:37.2408382+00:00:#1: Default - 
+2022-01-26T17:13:37.2408382+00:00:#2: InteractiveInvestorTest - 
+2022-01-26T17:13:37.2408382+00:00:#3: Replicating how a customer would navigate on ii UI. - 
+2022-01-26T17:13:37.2697613+00:00:#4: When user go to ii web page, navigate to Trading Account page - TestAssembly:InteractiveInvestorTest/Feature:Replicating+how+a+customer+would+navigate+on+ii+UI./Scenario:When+user+go+to+ii+web+page%2c+navigate+to+Trading+Account+page
+2022-01-26T17:13:37.2697613+00:00:End: Test Suite Dump
+2022-01-26T17:13:37.2857191+00:00:Thread#0:Scheduler: get next test for thread 0
+2022-01-26T17:13:37.2877135+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-01-26T17:13:37.2877135+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-01-26T17:13:37.2897073+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-01-26T17:13:37.2897073+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-01-26T17:13:37.2897073+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-01-26T17:13:37.2897073+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-01-26T17:13:37.2907046+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-01-26T17:13:37.2917020+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-01-26T17:13:37.2936966+00:00:Thread #0: creating new test thread executor for InteractiveInvestorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-01-26T17:13:37.2946940+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-01-26T17:13:37.3006784+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-01-26T17:13:37.3016763+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2022-01-26T17:13:37.5559966+00:00:Thread#0:T:-> Loading plugin C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-01-26T17:13:37.5629766+00:00:Thread#0:T:-> Loading plugin C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T17:13:37.5639742+00:00:Thread#0:T:-> Using default config
+2022-01-26T17:13:37.7694278+00:00:Thread#0: Test #4/0 is started on thread #0
+2022-01-26T17:13:37.8704984+00:00:Thread#0:T:Feature: Replicating how a customer would navigate on ii UI. | Scenario: When user go to ii web page, navigate to Trading Account page
+2022-01-26T17:13:40.6961061+00:00:Thread#0:B:Given Open a browser and go to  webpage
+2022-01-26T17:13:40.7340053+00:00:Thread#0:T:done: HomeSteps.GivenOpenABrowserAndGoToWebpage() (0.0s)
+2022-01-26T17:13:40.7456259+00:00:Thread#0:B:And Click on the “Services” dropdown
+2022-01-26T17:13:45.1804197+00:00:Thread#0:T:done: HomeSteps.GivenClickOnTheServicesDropdown() (4.4s)
+2022-01-26T17:13:49.7756526+00:00:Thread#0:B:When Click on the link Trading Account link
+2022-01-26T17:13:58.5284993+00:00:Thread#0:T:done: HomeSteps.WhenClickOnTheLinkTradingAccountLink() (8.8s)
+2022-01-26T17:14:04.5755209+00:00:Thread#0:B:Then Should see expected page
+2022-01-26T17:14:10.8508334+00:00:Thread#0:T:Unable to wait for the following to be visible By.CssSelector: h1.text-jumbo | Error: input cannot be null
+2022-01-26T17:14:10.8508334+00:00:Thread#0:T:Parameter name: input
+2022-01-26T17:14:10.8792282+00:00:Thread#0:T:Unable to wait for the following to be visible By.CssSelector: h1.text-jumbo | Error: System.ArgumentNullException: input cannot be null
+2022-01-26T17:14:10.8792282+00:00:Thread#0:T:Parameter name: input
+2022-01-26T17:14:10.8792282+00:00:Thread#0:T:   at OpenQA.Selenium.Support.UI.DefaultWait`1..ctor(T input, IClock clock)
+2022-01-26T17:14:10.8792282+00:00:Thread#0:T:   at OpenQA.Selenium.Support.UI.WebDriverWait..ctor(IClock clock, IWebDriver driver, TimeSpan timeout, TimeSpan sleepInterval)
+2022-01-26T17:14:10.8792282+00:00:Thread#0:T:   at OpenQA.Selenium.Support.UI.WebDriverWait..ctor(IWebDriver driver, TimeSpan timeout)
+2022-01-26T17:14:10.8792282+00:00:Thread#0:T:   at InteractiveInvestorTest.Helpers.WebDriverExtensions.WaitForElementToBeVisible(IWebDriver driver, By by) in C:\Users\halilozanar\source\repos\InteractiveInvestorTest\Helpers\WebDriverExtensions.cs:line 84
+2022-01-26T17:14:10.8792282+00:00:Thread#0:T:   at InteractiveInvestorTest.Helpers.WebDriverExtensions.AssertElementDisplayed(IWebDriver driver, By by) in C:\Users\halilozanar\source\repos\InteractiveInvestorTest\Helpers\WebDriverExtensions.cs:line 64

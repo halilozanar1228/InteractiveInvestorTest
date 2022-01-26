@@ -1,0 +1,142 @@
+﻿2022-01-26T18:54:34.7734468+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-01-26T18:54:34.7734468+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework clr40 in x86 mode execution started
+2022-01-26T18:54:34.7734468+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\packages\SpecRun.Runner.3.9.31\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-01-26T18:54:34.7734468+00:00;VSTestExecutionThread;Info;Current UserName: 'halilozanar', MachineName: '725TCB'
+2022-01-26T18:54:34.8113452+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T18:54:34.8113452+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults" (default)
+2022-01-26T18:54:34.8113452+00:00;VSTestExecutionThread;Info;Profile: 
+2022-01-26T18:54:34.8378891+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\Unnamed project__2022-01-26T185434.log
+2022-01-26T18:54:34.8419124+00:00;Thread#13;Info;Checking activation
+2022-01-26T18:54:34.8846005+00:00;Thread#13;Info;Activated.
+2022-01-26T18:54:34.8855942+00:00;Thread#13;Info;Activation check completed
+2022-01-26T18:54:34.8855942+00:00;Thread#13;Info;Starting test run
+2022-01-26T18:54:34.9102259+00:00;Thread#13;Info;Discovering target: Default
+2022-01-26T18:54:34.9112233+00:00;Thread#13;Info;Discovering tests from assembly: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T18:54:35.1262692+00:00;Thread#13;Info;Discovered tests from assembly: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T18:54:35.1272671+00:00:Test Suite Dump
+2022-01-26T18:54:35.1282638+00:00:#0: Unnamed project/ - 
+2022-01-26T18:54:35.1282638+00:00:#1: Default - 
+2022-01-26T18:54:35.1282638+00:00:#2: InteractiveInvestorTest - 
+2022-01-26T18:54:35.1282638+00:00:#3: Replicating how a customer would navigate on ii UI. - 
+2022-01-26T18:54:35.1512297+00:00:#4: When user go to ii web page, navigate to Trading Account page - TestAssembly:InteractiveInvestorTest/Feature:Replicating+how+a+customer+would+navigate+on+ii+UI./Scenario:When+user+go+to+ii+web+page%2c+navigate+to+Trading+Account+page
+2022-01-26T18:54:35.1512297+00:00:End: Test Suite Dump
+2022-01-26T18:54:35.1651654+00:00:Thread#0:Scheduler: get next test for thread 0
+2022-01-26T18:54:35.1661627+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-01-26T18:54:35.1661627+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-01-26T18:54:35.1691544+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-01-26T18:54:35.1691544+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-01-26T18:54:35.1691544+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-01-26T18:54:35.1691544+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-01-26T18:54:35.1701520+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-01-26T18:54:35.1701520+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-01-26T18:54:35.1721476+00:00:Thread #0: creating new test thread executor for InteractiveInvestorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-01-26T18:54:35.1731447+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-01-26T18:54:35.1751388+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2022-01-26T18:54:35.1761445+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2022-01-26T18:54:35.2868321+00:00:Thread#0:T:-> Loading plugin C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-01-26T18:54:35.2898251+00:00:Thread#0:T:-> Loading plugin C:\Users\halilozanar\source\repos\InteractiveInvestorTest\bin\Debug\InteractiveInvestorTest.dll
+2022-01-26T18:54:35.2907883+00:00:Thread#0:T:-> Using default config
+2022-01-26T18:54:35.4549471+00:00:Thread#0: Test #4/0 is started on thread #0
+2022-01-26T18:54:38.0347003+00:00:Thread#0:T:Current URL : https://www.ii.co.uk/
+2022-01-26T18:54:38.0376936+00:00:Thread#0:T:Current screen size: {Width=800, Height=600}
+2022-01-26T18:54:38.1481587+00:00:Thread#0:T:Screenshot Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\screenshots\20220126185438.png
+2022-01-26T18:54:38.3514119+00:00:Thread#0:B:Given Open a browser and go to  webpage
+2022-01-26T18:54:38.3823296+00:00:Thread#0:T:Current URL : https://www.ii.co.uk/
+2022-01-26T18:54:38.3833263+00:00:Thread#0:T:Current screen size: {Width=800, Height=600}
+2022-01-26T18:54:38.4682691+00:00:Thread#0:T:Screenshot Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\screenshots\20220126185438.png
+2022-01-26T18:54:38.4712611+00:00:Thread#0:T:done: HomeSteps.GivenOpenABrowserAndGoToWebpage() (0.1s)
+2022-01-26T18:54:38.5281096+00:00:Thread#0:B:And Click on the “Services” dropdown
+2022-01-26T18:54:48.8812971+00:00:Thread#0:T:The following error was thrown: Timed out after 10 seconds
+2022-01-26T18:54:48.9012358+00:00:Thread#0:T:error: Timed out after 10 seconds (10.4s)
+2022-01-26T18:54:48.9061959+00:00:Thread#0:B:When Click on the link Trading Account link
+2022-01-26T18:54:48.9061959+00:00:Thread#0:T:skipped because of previous errors
+2022-01-26T18:54:48.9081900+00:00:Thread#0:B:Then Should see expected page
+2022-01-26T18:54:48.9081900+00:00:Thread#0:T:skipped because of previous errors
+2022-01-26T18:54:48.9311619+00:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2022-01-26T18:54:48.9321256+00:00:Thread#0:Scheduler: get next test for thread 0
+2022-01-26T18:54:48.9321256+00:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2022-01-26T18:54:48.9321256+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-01-26T18:54:48.9321256+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-01-26T18:54:48.9321256+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-01-26T18:54:48.9321256+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-01-26T18:54:48.9321256+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-01-26T18:54:48.9321256+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-01-26T18:54:48.9321256+00:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2022-01-26T18:54:48.9367865+00:00:Thread#0:T:Current URL : https://www.ii.co.uk/
+2022-01-26T18:54:48.9377833+00:00:Thread#0:T:Current screen size: {Width=800, Height=600}
+2022-01-26T18:54:48.9918025+00:00:Thread#0:T:Screenshot Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\screenshots\20220126185448.png
+2022-01-26T18:54:49.0388175+00:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 13.5838704 seconds
+2022-01-26T18:54:49.0398150+00:00:Thread#0: Test #4/1 is started on thread #0
+2022-01-26T18:54:51.3629440+00:00:Thread#0:T:Current URL : https://www.ii.co.uk/
+2022-01-26T18:54:51.3639439+00:00:Thread#0:T:Current screen size: {Width=800, Height=600}
+2022-01-26T18:54:51.4511555+00:00:Thread#0:T:Screenshot Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\screenshots\20220126185451.png
+2022-01-26T18:54:51.6751694+00:00:Thread#0:B:Given Open a browser and go to  webpage
+2022-01-26T18:54:51.7020956+00:00:Thread#0:T:Current URL : https://www.ii.co.uk/
+2022-01-26T18:54:51.7030949+00:00:Thread#0:T:Current screen size: {Width=800, Height=600}
+2022-01-26T18:54:51.8511813+00:00:Thread#0:T:Screenshot Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\screenshots\20220126185451.png
+2022-01-26T18:54:51.8511813+00:00:Thread#0:T:done: HomeSteps.GivenOpenABrowserAndGoToWebpage() (0.2s)
+2022-01-26T18:54:51.8551705+00:00:Thread#0:B:And Click on the “Services” dropdown
+2022-01-26T18:55:02.1768986+00:00:Thread#0:T:The following error was thrown: Timed out after 10 seconds
+2022-01-26T18:55:02.1778952+00:00:Thread#0:T:error: Timed out after 10 seconds (10.3s)
+2022-01-26T18:55:02.1798896+00:00:Thread#0:B:When Click on the link Trading Account link
+2022-01-26T18:55:02.1808870+00:00:Thread#0:T:skipped because of previous errors
+2022-01-26T18:55:02.1808870+00:00:Thread#0:B:Then Should see expected page
+2022-01-26T18:55:02.1808870+00:00:Thread#0:T:skipped because of previous errors
+2022-01-26T18:55:02.1808870+00:00:Thread#0:Scheduler: get next test for thread 0
+2022-01-26T18:55:02.1808870+00:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2022-01-26T18:55:02.1808870+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-01-26T18:55:02.1808870+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-01-26T18:55:02.1808870+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-01-26T18:55:02.1808870+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-01-26T18:55:02.1808870+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-01-26T18:55:02.1808870+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-01-26T18:55:02.1808870+00:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2022-01-26T18:55:02.1828819+00:00:Thread#0:T:Current URL : https://www.ii.co.uk/
+2022-01-26T18:55:02.1838794+00:00:Thread#0:T:Current screen size: {Width=800, Height=600}
+2022-01-26T18:55:02.2407758+00:00:Thread#0:T:Screenshot Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\screenshots\20220126185502.png
+2022-01-26T18:55:02.3054804+00:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 13.2656654 seconds
+2022-01-26T18:55:02.3054804+00:00:Thread#0: Test #4/2 is started on thread #0
+2022-01-26T18:55:04.5749758+00:00:Thread#0:T:Current URL : https://www.ii.co.uk/
+2022-01-26T18:55:04.5769694+00:00:Thread#0:T:Current screen size: {Width=800, Height=600}
+2022-01-26T18:55:04.6687235+00:00:Thread#0:T:Screenshot Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\screenshots\20220126185504.png
+2022-01-26T18:55:04.8754640+00:00:Thread#0:B:Given Open a browser and go to  webpage
+2022-01-26T18:55:04.8954122+00:00:Thread#0:T:Current URL : https://www.ii.co.uk/
+2022-01-26T18:55:04.8964057+00:00:Thread#0:T:Current screen size: {Width=800, Height=600}
+2022-01-26T18:55:04.9845398+00:00:Thread#0:T:Screenshot Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\screenshots\20220126185504.png
+2022-01-26T18:55:04.9855369+00:00:Thread#0:T:done: HomeSteps.GivenOpenABrowserAndGoToWebpage() (0.1s)
+2022-01-26T18:55:05.0563664+00:00:Thread#0:B:And Click on the “Services” dropdown
+2022-01-26T18:55:15.4074104+00:00:Thread#0:T:The following error was thrown: Timed out after 10 seconds
+2022-01-26T18:55:15.4084079+00:00:Thread#0:T:error: Timed out after 10 seconds (10.4s)
+2022-01-26T18:55:15.4113998+00:00:Thread#0:B:When Click on the link Trading Account link
+2022-01-26T18:55:15.4113998+00:00:Thread#0:T:skipped because of previous errors
+2022-01-26T18:55:15.4113998+00:00:Thread#0:B:Then Should see expected page
+2022-01-26T18:55:15.4113998+00:00:Thread#0:T:skipped because of previous errors
+2022-01-26T18:55:15.4113998+00:00:Thread#0:Scheduler: get next test for thread 0
+2022-01-26T18:55:15.4113998+00:00:Thread#:Scheduler: at the end of normal test queue
+2022-01-26T18:55:15.4113998+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-01-26T18:55:15.4113998+00:00:Thread#0:Scheduler: No more tests for thread
+2022-01-26T18:55:15.4133951+00:00:Thread#0:T:Current URL : https://www.ii.co.uk/
+2022-01-26T18:55:15.4143912+00:00:Thread#0:T:Current screen size: {Width=800, Height=600}
+2022-01-26T18:55:15.4573893+00:00:Thread#0:T:Screenshot Location: C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\screenshots\20220126185515.png
+2022-01-26T18:55:15.4982795+00:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 13.1927991 seconds
+2022-01-26T18:55:15.5082923+00:00:Trying to cancel thread
+2022-01-26T18:55:15.5082923+00:00:Thread cancelled
+2022-01-26T18:55:15.5122420+00:00:Thread#-1:Scheduler: get next test for thread -1
+2022-01-26T18:55:15.5122420+00:00:Thread#:Scheduler: at the end of normal test queue
+2022-01-26T18:55:15.5122420+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-01-26T18:55:15.5152340+00:00;Thread#13;Info;test run finished
+2022-01-26T18:55:15.5152340+00:00;Thread#13;Info;publishing test results
+2022-01-26T18:55:15.5202272+00:00;Thread#13;Info;test results published
+2022-01-26T18:55:15.5202272+00:00;Thread#13;Info;generating reports
+2022-01-26T18:55:15.5860647+00:00;Thread#13;Info;Starting external report generation process
+2022-01-26T18:55:16.5130279+00:00;Thread#13;Info;Successfully generated reports.
+2022-01-26T18:55:16.5139960+00:00;Thread#13;Info;Successfully generated reports
+2022-01-26T18:55:16.5200163+00:00:Total: 1 (test executions: 3)
+2022-01-26T18:55:16.5210104+00:00:Succeeded: 0
+2022-01-26T18:55:16.5210104+00:00:Ignored: 0
+2022-01-26T18:55:16.5210104+00:00:Pending: 0
+2022-01-26T18:55:16.5210104+00:00:Skipped: 0
+2022-01-26T18:55:16.5210104+00:00:Failed: 1
+2022-01-26T18:55:16.5279522+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-01-26T18:55:16.5289477+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\halilozanar\source\repos\InteractiveInvestorTest\TestResults\Unnamed project__2022-01-26T185434.html'
+========== End of log file ==========
